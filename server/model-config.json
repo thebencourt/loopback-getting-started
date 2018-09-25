@@ -12,5 +12,9 @@
       "../common/mixins",
       "./mixins"
     ]
+  },
+  "CoffeeShop": {
+    "dataSource": null,
+    "public": true
   }
 }
